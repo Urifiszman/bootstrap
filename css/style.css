@@ -6,3 +6,22 @@
 .navbar {
   background-color: #006bac;
 }
+
+.portada {
+  width: 150px;
+  height: 150px;
+}
+
+.footer {
+  background-color: #008835;
+  color: white;
+}
+#insta {
+  color: white;
+  text-decoration: none;
+}
+.productos-titulo {
+  background-color: #008835;
+  color: white;
+  margin-top: 10px;
+}
